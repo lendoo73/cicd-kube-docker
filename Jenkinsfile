@@ -5,7 +5,7 @@ pipeline {
         maven "maven3"
     }
     environment {
-        registry = "lendoo73/vproappdoc"
+        registry = "imranvisualpath/vproappdock"
         registryCredential = "dockerhub"
     }
 
